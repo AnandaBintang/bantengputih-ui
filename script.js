@@ -356,7 +356,7 @@ function showProductDetail(productId) {
             <strong class="text-secondary">${product.contact}</strong>
           </div>
           <div class="flex flex-col sm:flex-row gap-3">
-            <a href="https://wa.me/6281234567890?text=Halo,%20saya%20tertarik%20dengan%20produk%20${product.name}" 
+            <a href="https://wa.me/6281331931077?text=Halo,%20saya%20tertarik%20dengan%20produk%20${product.name}" 
                target="_blank" 
                class="bg-primary hover:bg-accent text-white px-6 py-3 rounded-lg font-semibold text-center transition-colors duration-300">
               <i class="fab fa-whatsapp mr-2"></i>Pesan via WhatsApp
